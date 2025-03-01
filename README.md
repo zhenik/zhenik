@@ -1,6 +1,6 @@
 ### Hi, I am Nikita
 
-- 🔭 Doing/Learning some devOps things in [Posten Bring](https://github.com/bring). Automation around k8s, Azure with Terraform and a bit of Java
+- 🔭 Coding and devOpsing: java, k8s, Azure, Terraform
 - :heart: :swimmer: :biking_man: :running_man: :skier: :climbing: :mountain: 
 - 📹 Love making [videos](https://www.youtube.com/playlist?list=PLES1YzLiEt4Oi4JupInSNgE4TRqsVq8e0)
 - Ex roles: Full stack developer, System developer, Platform developer
